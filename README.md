@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jahnav-sannapureddy
 - Connect with me
-    -  <a href="https://www.linkedin.com/in/jahnav-sannapureddy/">Jahnav Sannapureddy</a>
+    -  <a margin="8" href="https://www.linkedin.com/in/jahnav-sannapureddy/">Jahnav Sannapureddy</a>
